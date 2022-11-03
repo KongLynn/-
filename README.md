@@ -5,11 +5,9 @@
 
 ## Web漏扫
 
-1.AWVS（付费）
-
-2.OWASP ZAP（免费）
-
-3.Xray（免费）
+1.AWVS（付费）  
+2.OWASP ZAP（免费）  
+3.Xray（免费）  
 
 
 
@@ -17,7 +15,7 @@
 
 1.Nessus（付费）
 
-2.
+
 
 
 
@@ -29,4 +27,8 @@
 
 ## 固件安全测试
 
-1.checksec-检测PIE
+1.[checksec](https://github.com/slimm609/checksec.sh/)-检测可执行文件是否开启安全机制，如PIE
+
+
+## 密码学
+1. [rsa-sanity-check](https://www.cryptool.org/en/posts/2012-05-24/rsa-sanity-check)RSA共享公钥因子攻击测试
