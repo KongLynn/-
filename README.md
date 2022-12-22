@@ -28,6 +28,10 @@
 
 1. [FACT](https://github.com/fkie-cad/FACT_core)-固件扫描工具
 2. [checksec](https://github.com/slimm609/checksec.sh/)-检测可执行文件是否开启安全机制，如PIE
+3. [firmware-mod-kit](https://github.com/mirror/firmware-mod-kit)-固件解包和重打包工具
+4. [Ghidra](https://github.com/NationalSecurityAgency/ghidra)-固件逆向
+5. [IDA Pro]-固件逆向，商业软件，可自行去网上找破解版
+6. [angr](https://github.com/angr/angr)-自动化二进制文件分析框架
 
 
 ## 密码学
